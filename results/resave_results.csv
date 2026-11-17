@@ -1,0 +1,13 @@
+image_name,format,method,exe_name,survives_resave
+flat_graphic,jpg,append,test_program,False
+flat_graphic,png,append,test_program,False
+flat_graphic,jpg,metadata,test_program,False
+flat_graphic,png,metadata,test_program,False
+high_res,jpg,append,test_program,False
+high_res,png,append,test_program,False
+high_res,jpg,metadata,test_program,False
+high_res,png,metadata,test_program,False
+photo_like,jpg,append,test_program,False
+photo_like,png,append,test_program,False
+photo_like,jpg,metadata,test_program,False
+photo_like,png,metadata,test_program,False
