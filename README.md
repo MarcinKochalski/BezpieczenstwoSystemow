@@ -5,8 +5,8 @@
 ```
 methods/
   base.py              <- kontrakt (interfejs) - NIE edytowac
-  append_method.py      <- TODO: Osoba 2 (metoda a: dopisanie na koncu pliku)
-  metadata_method.py    <- TODO: Osoba 3 (metoda b: metadane)
+  append_method.py      <- gotowe
+  metadata_method.py    <- gotowe
 metrics.py               <- gotowe: ocena wynikow wg kryteriow a-f
 generate_test_images.py  <- gotowe: generuje 3 obrazy bazowe (PNG+JPG)
 runner.py                <- gotowe: odpala caly pipeline, zapisuje results.csv
