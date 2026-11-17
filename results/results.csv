@@ -1,0 +1,13 @@
+image_name,format,method,exe_name,displays_correctly,size_delta_bytes,sha256_match,runs_correctly,detectability_notes
+flat_graphic,png,append,test_program,True,39440,True,,"39440 B danych PO chunku IEND - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+high_res,png,append,test_program,True,39440,True,,"39440 B danych PO chunku IEND - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+photo_like,png,append,test_program,True,39440,True,,"39440 B danych PO chunku IEND - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+flat_graphic,jpg,append,test_program,True,39440,True,,"39440 B danych PO markerze EOI - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+high_res,jpg,append,test_program,True,39440,True,,"39440 B danych PO markerze EOI - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+photo_like,jpg,append,test_program,True,39440,True,,"39440 B danych PO markerze EOI - niestandardowe, silna sygnatura metody 'append'. Znaleziono sygnature 'MZ' (naglowek PE) w tych danych - to prawie na pewno ukryty EXE."
+flat_graphic,png,metadata,test_program,True,52592,True,,"Nietypowe chunki/klucze tekstowe: [""tEXt (keyword='p22_payload')""] - sygnatura metody 'metadata'."
+high_res,png,metadata,test_program,True,52592,True,,"Nietypowe chunki/klucze tekstowe: [""tEXt (keyword='p22_payload')""] - sygnatura metody 'metadata'."
+photo_like,png,metadata,test_program,True,52592,True,,"Nietypowe chunki/klucze tekstowe: [""tEXt (keyword='p22_payload')""] - sygnatura metody 'metadata'."
+flat_graphic,jpg,metadata,test_program,True,39444,True,,"Segment COM wystepuje natychmiast po SOI, przed APP0/JFIF - nietypowa kolejnosc, sygnatura metody 'metadata'."
+high_res,jpg,metadata,test_program,True,39444,True,,"Segment COM wystepuje natychmiast po SOI, przed APP0/JFIF - nietypowa kolejnosc, sygnatura metody 'metadata'."
+photo_like,jpg,metadata,test_program,True,39444,True,,"Segment COM wystepuje natychmiast po SOI, przed APP0/JFIF - nietypowa kolejnosc, sygnatura metody 'metadata'."
